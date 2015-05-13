@@ -1,0 +1,9 @@
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe.config
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.pdb
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csprojResolveAssemblyReference.cache
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Form1.resources
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Properties.Resources.resources
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csproj.GenerateResource.Cache
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.exe
+E:\Tarik Rahman\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.pdb
